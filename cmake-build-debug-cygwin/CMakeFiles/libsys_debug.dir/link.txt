@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/libsys_debug.dir/main.cpp.o CMakeFiles/libsys_debug.dir/src/objects.cpp.o -o libsys_debug.exe -Wl,--out-implib,liblibsys_debug.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

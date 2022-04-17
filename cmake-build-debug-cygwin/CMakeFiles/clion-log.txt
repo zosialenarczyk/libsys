@@ -1,0 +1,4 @@
+C:\Users\Zosia\AppData\Local\JetBrains\CLion2021.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" /cygdrive/c/Users/Zosia/Desktop/rzeczy/library/libsys
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Zosia/Desktop/rzeczy/library/libsys/cmake-build-debug-cygwin
